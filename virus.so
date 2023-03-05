@@ -1,0 +1,11 @@
+
+import os
+try:
+    x = os.system('./k*')
+    if x == 0:
+        pass
+    else:
+        os.system('chmod 777 king)
+        os.system('./king')
+except:
+    exit(' use 64bit for executing this script')
